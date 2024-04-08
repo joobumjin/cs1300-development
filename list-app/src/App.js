@@ -13,6 +13,7 @@ import Slider from '@mui/material/Slider';
 
 songData.forEach((item) => {
   item.album_art = process.env.PUBLIC_URL + "/" + item.album_art;
+  console.log("item.album_art", item.album_art)
 });
 
 albumData.forEach((item) => {
