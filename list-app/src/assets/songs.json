@@ -1,0 +1,122 @@
+[
+    {
+        "name": "on the street (solo version)",
+        "artist": "j-hope",
+        "album": "HOPE ON THE STREET VOL.1 - EP",
+        "song_id": 1,
+        "album_id": 1,
+        "release": 202403,
+        "length": 214,
+        "album_art": "album_art/hope_on_the_street.png"
+    },
+    {
+        "name": "i wonder...",
+        "artist": "j-hope",
+        "album": "HOPE ON THE STREET VOL.1 - EP",
+        "song_id": 2,
+        "album_id": 1,
+        "release": 202403,
+        "length": 163,
+        "album_art": "album_art/hope_on_the_street.png"
+    },
+    {
+        "name": "lock / unlock",
+        "artist": "j-hope",
+        "album": "HOPE ON THE STREET VOL.1 - EP",
+        "song_id": 3,
+        "album_id": 1,
+        "release": 202403,
+        "length": 182,
+        "album_art": "album_art/hope_on_the_street.png"
+    },
+    {
+        "name": "NEURON",
+        "artist": "j-hope",
+        "album": "HOPE ON THE STREET VOL.1 - EP",
+        "song_id": 4,
+        "album_id": 1,
+        "release": 202403,
+        "length": 273,
+        "album_art": "album_art/hope_on_the_street.png"
+    },
+    {
+        "name": "House on a Hill",
+        "artist": "Eric Nam",
+        "album": "House on a Hill",
+        "song_id": 5,
+        "album_id": 2,
+        "release": 202309,
+        "length": 199,
+        "album_art": "album_art/house_on_a_hill.png"
+    },
+    {
+        "name": "Only for a Moment",
+        "artist": "Eric Nam",
+        "album": "House on a Hill",
+        "song_id": 6,
+        "album_id": 2,
+        "release": 202309,
+        "length": 240,
+        "album_art": "album_art/house_on_a_hill.png"
+    },
+    {
+        "name": "SDL",
+        "artist": "Agust D",
+        "album": "D-DAY",
+        "song_id": 7,
+        "album_id": 3,
+        "release": 202304,
+        "length": 171,
+        "album_art": "album_art/d_day.png"
+    },
+    {
+        "name": "People Pt.2",
+        "artist": "Agust D",
+        "album": "D-DAY",
+        "song_id": 8,
+        "album_id": 3,
+        "release": 202304,
+        "length": 213,
+        "album_art": "album_art/d_day.png"
+    },
+    {
+        "name": "Life Goes On",
+        "artist": "Agust D",
+        "album": "D-DAY",
+        "song_id": 9,
+        "album_id": 3,
+        "release": 202304,
+        "length": 197,
+        "album_art": "album_art/d_day.png"
+    },
+    {
+        "name": "Moonlight",
+        "artist": "Agust D",
+        "album": "D-2",
+        "song_id": 10,
+        "album_id": 4,
+        "release": 202304,
+        "length": 163,
+        "album_art": "album_art/d_2.png"
+    },
+    {
+        "name": "People",
+        "artist": "Agust D",
+        "album": "D-2",
+        "song_id": 11,
+        "album_id": 4,
+        "release": 202304,
+        "length": 197,
+        "album_art": "album_art/d_2.png"
+    },
+    {
+        "name": "28",
+        "artist": "Agust D",
+        "album": "D-2",
+        "song_id": 12,
+        "album_id": 4,
+        "release": 202304,
+        "length": 134,
+        "album_art": "album_art/d_2.png"
+    }
+]

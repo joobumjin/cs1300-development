@@ -1,0 +1,26 @@
+[
+    {
+        "album": "HOPE ON THE STREET VOL.1 - EP",
+        "artist": "j-hope",
+        "album_id": 1,
+        "album_art": "album_art/hope_on_the_street.png"
+    },
+    {
+        "album": "House on a Hill",
+        "artist": "Eric Nam",
+        "album_id": 2,
+        "album_art": "album_art/house_on_a_hill.png"
+    },
+    {
+        "album": "D-DAY",
+        "artist": "Agust D",
+        "album_id": 3,
+        "album_art": "album_art/d_day.png"
+    },
+    {
+        "album": "D-2",
+        "artist": "Agust D",
+        "album_id": 4,
+        "album_art": "album_art/d_2.png"
+    }
+]
